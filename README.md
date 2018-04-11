@@ -1,6 +1,4 @@
 # maven-project
-Source code for James Lee's Jenkins course.
+Project for learning Jenkins from the course "The Complete Jenkins Course For Developers And Devops"
 
-Check out our Latest DevOps PDF book.
-
-https://www.level-up.one/devops-pdf-book
+Forked from https://github.com/jleetutorial/maven-project
